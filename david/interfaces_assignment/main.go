@@ -1,4 +1,4 @@
-// Write a program that creates two custom sturct types called triangle and square. Use them in an interface with getArea function
+// Write a program that creates two custom sturct types called triangle and square. Use them in an interface with getArea function.
 package main
 
 import "fmt"
